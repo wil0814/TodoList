@@ -4,10 +4,10 @@
 /node_modules
 /.pnp
 .pnp.js
+/clinet/node_modules
 
 # testing
 /coverage
-/clinet
 # production
 /build
 
